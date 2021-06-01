@@ -55,6 +55,7 @@ public class StockBaseMtrlController extends BaseController
     {
         List<StockBaseMtrl> list = stockBaseMtrlService.selectStockBaseMtrlList(stockBaseMtrl);
         ExcelUtil<StockBaseMtrl> util = new ExcelUtil<StockBaseMtrl>(StockBaseMtrl.class);
+        String a = "1";
         return util.exportExcel(list, "mtrl");
     }
 
