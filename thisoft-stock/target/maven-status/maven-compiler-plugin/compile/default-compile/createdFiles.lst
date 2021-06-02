@@ -1,0 +1,7 @@
+com\thisoft\stock\service\impl\StockBaseMtrlServiceImpl.class
+com\thisoft\stock\service\IStockBaseMtrlService.class
+com\thisoft\stock\controller\StockBaseMtrlController.class
+com\thisoft\stock\domain\StockBaseMtrl.class
+com\thisoft\stock\mapper\StockBaseMtrlMapper.class
+com\thisoft\stock\controller\TestController.class
+com\thisoft\stock\controller\Test2Controller.class

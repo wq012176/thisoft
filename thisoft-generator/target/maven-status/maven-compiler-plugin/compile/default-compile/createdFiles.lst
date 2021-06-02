@@ -1,0 +1,13 @@
+com\thisoft\generator\service\GenTableColumnServiceImpl.class
+com\thisoft\generator\util\GenUtils.class
+com\thisoft\generator\controller\GenController.class
+com\thisoft\generator\domain\GenTable.class
+com\thisoft\generator\service\IGenTableService.class
+com\thisoft\generator\service\GenTableServiceImpl.class
+com\thisoft\generator\config\GenConfig.class
+com\thisoft\generator\util\VelocityUtils.class
+com\thisoft\generator\domain\GenTableColumn.class
+com\thisoft\generator\mapper\GenTableColumnMapper.class
+com\thisoft\generator\util\VelocityInitializer.class
+com\thisoft\generator\mapper\GenTableMapper.class
+com\thisoft\generator\service\IGenTableColumnService.class
