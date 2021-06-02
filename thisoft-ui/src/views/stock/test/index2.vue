@@ -6,8 +6,9 @@
           v-model="queryParams.test01"
           placeholder="请输入test01"
           clearable
-          size="small"
+          size="big"
           @keyup.enter.native="handleQuery"
+
         />
       </el-form-item>
       <el-form-item label="test02" prop="test02">
